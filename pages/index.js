@@ -5,7 +5,6 @@ import {
 } from "react-icons/ai";
 import { BsFillMoonStarsFill } from "react-icons/bs";
 import { useState } from "react";
-import deved from "../public/dev-ed-wave.png";
 import devscott from "../public/devscott.jpg"
 import code from "../public/code.png";
 import design from "../public/design.png";
@@ -59,7 +58,7 @@ export default function Home() {
               Systems Administration - Cybersecurity - Application Development.
             </h3>
             <p className="text-md py-5 leading-8 text-gray-800 dark:text-gray-200 max-w-xl mx-auto md:text-xl">
-              Freelancer (open to work) providing services for all your needs. Join me down below and let's get going!
+              Freelancer (open to work) providing services for all your needs. Join me down below and lets get going!
             </p>
             <div className="text-5xl flex justify-center gap-16 py-3 text-gray-600 dark:text-gray-400">
               <a href="https://www.linkedin.com/in/scottdaviscyberpro/" target="_blank" rel="noopener noreferrer">
@@ -118,7 +117,7 @@ export default function Home() {
               <Image src={code} width={100} height={100} />
               <h3 className="text-lg font-medium pt-8 pb-2 ">Code your dream project</h3>
               <p className="py-2">
-              Do you have an idea for your next great website or application? Let's do it!
+              Do you have an idea for your next great website or application? Lets do it!
               </p>
               <h4 className="py-4 text-teal-600">Tools I use:</h4>
               <p className="text-gray-800 py-1">Python</p>
